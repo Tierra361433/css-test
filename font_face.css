@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MadokaRunes';
+    src: url('https://cdn.jsdelivr.net/gh/Tierra361433/css-test@魔女文字css/MadokaRunes-2.0.woff') format('woff');
+    /*MadokaRunes-2.0.woff*/
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+   /* color: red;*/
+}
